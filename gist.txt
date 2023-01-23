@@ -1,0 +1,40 @@
+# Project Proposal
+
+An app for tracking shared household tasks.
+
+## Technologies Required
+
+- Google Task API https://developers.google.com/tasks/reference/rest
+
+## Data Model
+project wireframe:
+https://drive.google.com/file/d/1VkyB5K5DZJGOVfp0f2lXcvo-D2717iZY/view?usp=sharing
+project datamodel:
+https://dbdesigner.page.link/ju6GBNsJ7o5LHZ3u7
+
+In your data model, make sure to include all necessary tables, fields and datatypes,
+primary keys, foreign keys, and indicate the relationships between the tables in a digram.
+
+## Roadmap
+
+### MVP
+
+- Users can login
+- Users can add task to list w/frequency (once, daily, weekly, monthly)
+- Tasks can be assigned to user/co-user
+- Users can mark tasks complete
+
+### 2.0
+
+- Users can visualize tasks completed, who was assigned to task
+- Users can synch tasks with Google Tasks
+- UI appealing
+
+### Nice-to-haves
+
+- React
+- Pop-up tips for common tasks
+
+## Notes
+
+Inspired by Fair Play book.
